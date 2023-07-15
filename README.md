@@ -39,7 +39,7 @@
 ---
 
 ## Data Structure Used
-* List
+* MySQL
 ---
 
 ## Project Summary
